@@ -1,0 +1,6 @@
+name: PvPCore
+version: 1.0.0
+main: PvPCore\Main
+api: 5.0.0
+description: A core plugin for PvP server with duel options.
+author: Andreykuro
