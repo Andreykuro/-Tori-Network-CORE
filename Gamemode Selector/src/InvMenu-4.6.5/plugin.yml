@@ -1,7 +1,0 @@
-name: CustomGameModeSelector
-version: 1.0.0
-main: CustomGameModeSelector\Main
-api: 5.0.0
-description: A customizable plugin to select game modes via GUI.
-author: Andreykuro
-depend: [FormsAPI]
